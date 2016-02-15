@@ -1,4 +1,4 @@
 language: objective-c
 osx_image: xcode7.2
 xcode_project: ./mytravisapp/mytravisapp.xcodeproj 
-xcode_scheme: mytravisappTests
+xcode_scheme: ./mytravisapp/mytravisappTests
